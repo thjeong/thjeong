@@ -24,22 +24,22 @@ en: &DEFAULT_EN
       - title: "IT Service"
         desc: "AI augmented service is our concept."
         icon: fa-solid fa-brain #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      # - title: "Responsive Design"
+      #   desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      #   icon: fas fa-laptop
+      # - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      #   desc: "Your description here, full **Markdown** support"
+      #   icon: fab fa-markdown
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Get busy living or get busy dying."
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "Timeline of AAA corp."
     section: timeline
     # left is the default
     #start_align: "left"
@@ -51,12 +51,12 @@ en: &DEFAULT_EN
         alt:
       - title: "Tickermath service opened"
         year: "Feb 2021"
-        desc: "A tool for value investment has been openen for the first project in AAA corp."
+        desc: "The first proejct of AAA corp. User can track the stock market with their own value equations."
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Listable app opened"
         year: "2022"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        desc: "A checklist app. User can build and share their checklist with their friends."
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Homepage opened"
@@ -71,7 +71,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "We deliver a service, then we improve it with AI technology."
+    body: "We deliver a service, then improve it with AI technology."
     section: about
 
   clients:
@@ -94,10 +94,14 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "Want to be we."
+    text: "Want to be a team."
     subtext: Thank you for all the other open source developers around globe.
     section: team
     people:
+      - name: ""
+        role: ""
+        image: 
+        social:
       - name: "Jimmy J"
         role: "Data scientist"
         image: assets/img/team/2.jpg
@@ -153,93 +157,97 @@ es-CO:
 # -------
 ko: &DEFAULT_KR
   header:
-    title: ¡Bienvenido a nuestro Estudio!
-    text: Es un placer conocerle
-    button: Ver más
-    buttonlink: "#servicios"
+    title: Thank you for visiting us!
+    text: AI aided applications, co.
+    button: Tell Me More
+    buttonlink: "#services"
 
   services:
-    title: "Servicios"
+    title: "Services"
     text: "Lorem ipsum"
-    section: servicios
+    section: services
     list:
-      - title: "Comercio Electrónico"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Diseño Responsivo"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Su descripción aquí, soporte completo de **Markdown**"
-        icon: fab fa-markdown
+      - title: "IT Service"
+        desc: "AI augmented service is our concept."
+        icon: fa-solid fa-brain #find more at https://fontawesome.com/icons
+      # - title: "Responsive Design"
+      #   desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      #   icon: fas fa-laptop
+      # - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      #   desc: "Your description here, full **Markdown** support"
+      #   icon: fab fa-markdown
 
   portfolio:
-    title: "Portafolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portafolio
-    closebutton: "Cerrar Proyecto"
+    title: "Portfolio"
+    text: "Get busy living or get busy dying."
+    section: portfolio
+    closebutton: "Close Project"
 
   timeline:
-    title: "Cronología"
-    text: "Lorem ipsum timeline"
-    section: cronologia
+    title: "Timeline"
+    text: "Timeline of AAA corp."
+    section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Nuestro Humilde Comienzo"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Our Humble Beginnings"
+        year: "2021"
+        desc: "AAA corp. registered"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "Una Agencia nace"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Tickermath service opened"
+        year: "Feb 2021"
+        desc: "The first proejct of AAA corp. User can track the stock market with their own value equations."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "La plantilla Jekyll es creada"
-        year: "2019"
-        desc: "Ravi Riley convirtió Agency, una plantilla basada en Bootstrap, en una plantilla de Jekyll. La plantilla Jekyll puede ser instalada commo una gema de Ruby (Ruby gem) o remotamente. Para más información, visite la documentación."
+      - title: "Listable app opened"
+        year: "2022"
+        desc: "A checklist app. User can build and share their checklist with their friends."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Título"
-        year: "2009-2011"
-        desc: "Su descripción aquí, **Markdown** es soportado completamente."
+      - title: "Homepage opened"
+        year: "May 2022"
+        desc: "This homepage opened."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "¡Se parte <br> de Nuestra <br> Historia!"
+    end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "Sobre nosotros"
-    text: "nuestra historia"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: nosotros
+    title: "About Us"
+    text: "our story"
+    body: "We deliver a service, then we improve it with AI technology."
+    section: about
 
   clients:
-    section: clientes
+    section: clients
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+      # - title: "envato"
+      #   url: https://github.com/raviriley/agency-jekyll-theme
+      #   logo: assets/img/clients/envato.jpg
+      # - title: "designmodo"
+      #   url: https://github.com/raviriley/agency-jekyll-theme
+      #   logo: assets/img/clients/designmodo.jpg
+      # - title: "themeforest"
+      #   url: https://github.com/raviriley/agency-jekyll-theme
+      #   logo: assets/img/clients/themeforest.jpg
+      # - title: "Creative Market"
+      #   url: https://github.com/raviriley/agency-jekyll-theme
+      #   logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "NUESTRO INCREÍBLE EQUIPO"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: equipo
+    title: "OUR AMAZING TEAM"
+    text: "Want to be a team."
+    subtext: Thank you for all the other open source developers around globe.
+    section: team
     people:
+      - name: ""
+        role: ""
+        image: 
+        social:
       - name: "Jimmy J"
         role: "Data scientist"
         image: assets/img/team/2.jpg
@@ -249,25 +257,24 @@ ko: &DEFAULT_KR
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://linkedin.com
-            icon: fab fa-linkedin-in
 
   contact:
-    title: "Contáctenos"
-    text: "Lorem ipsum or call 123456789"
-    section: contacto
-    name: "Nombre*"
-    name-validation: "Por favor ingrese su nombre."
-    email: "Correo Electrónico*"
-    email-validation: "Por favor ingrese su correo electrónico."
-    phone: "Número Telefónico*"
-    phone-validation: "Por favor ingrese su número telefónico."
-    message: "Mensaje*"
-    message-validation: "Por favor escriba un mensaje."
-    subject: "Envío del formulario de contacto"
-    submit: "Enviar Mensaje"
+    title: "Contact Us"
+    text: "When you have any questions about us, please email us."
+    section: contact
+    name: "Name*"
+    name-validation: "Please enter your name."
+    email: "Email*"
+    email-validation: "Please enter your email address."
+    phone: "Phone Number"
+    phone-validation: "Please enter your phone number."
+    message: "Message*"
+    message-validation: "Please enter a message."
+    subject: "Contact Form Submission"
+    submit: "Send Message"
 
   footer:
-    legal: "Política de Privacidad"
+    legal: "Privacy Policy"
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"
