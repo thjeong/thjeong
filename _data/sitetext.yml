@@ -18,11 +18,11 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "Always on a new project."
+    text: ""
     section: services
     list:
       - title: "IT Service"
-        desc: "AI augmented service is our concept."
+        desc: "AI augmented service"
         icon: fa-solid fa-brain #find more at https://fontawesome.com/icons
       # - title: "Responsive Design"
       #   desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Get busy living or get busy dying."
+    text: ""
     section: portfolio
     closebutton: "Close Project"
 
@@ -102,7 +102,7 @@ en: &DEFAULT_EN
         role: "Engineer"
         image: assets/img/team/profile.jpg
         social:
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/taehwan-jeong-b194301a/
             icon: "fab fa-linkedin"
           - url: https://github.com/thjeong
             icon: "fab fa-github"
@@ -129,7 +129,7 @@ en: &DEFAULT_EN
       #   icon: "fab fa-twitter"
       # - url: https://facebook.com
       #   icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
+      - url: https://www.linkedin.com/in/taehwan-jeong-b194301a/
         icon: "fab fa-linkedin"
       - url: https://github.com/thjeong
         icon: "fab fa-github"
@@ -159,11 +159,11 @@ ko: &DEFAULT_KR
 
   services:
     title: "Services"
-    text: "Always on a new project."
+    text: ""
     section: services
     list:
       - title: "IT Service"
-        desc: "AI augmented service is our concept."
+        desc: "AI augmented service"
         icon: fa-solid fa-brain #find more at https://fontawesome.com/icons
       # - title: "Responsive Design"
       #   desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -174,7 +174,7 @@ ko: &DEFAULT_KR
 
   portfolio:
     title: "Portfolio"
-    text: "Get busy living or get busy dying."
+    text: ""
     section: portfolio
     closebutton: "Close Project"
 
@@ -243,7 +243,7 @@ ko: &DEFAULT_KR
         role: "Engineer"
         image: assets/img/team/profile.jpg
         social:
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/taehwan-jeong-b194301a/
             icon: "fab fa-linkedin"
           - url: https://github.com/thjeong
             icon: "fab fa-github"
@@ -270,7 +270,7 @@ ko: &DEFAULT_KR
       #   icon: "fab fa-twitter"
       # - url: https://facebook.com
       #   icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
+      - url: https://www.linkedin.com/in/taehwan-jeong-b194301a/
         icon: "fab fa-linkedin"
       - url: https://github.com/thjeong
         icon: "fab fa-github"
