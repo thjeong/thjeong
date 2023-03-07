@@ -15,11 +15,11 @@
 remote_theme: raviriley/agency-jekyll-theme
 
 url    : "http://www.aiaid.app" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
+baseurl: "/" #agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 
 title      : AI Aid Applications
 email      : admin@aiaid.app #this is also the email contact forms will go to
-description: "We deliver a service, then improve it with AI technology."
+description: ""
 author     : Jimmy J
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
