@@ -54,7 +54,7 @@ en: &DEFAULT_EN
         desc: "The first proejct of AAA corp. User can track the stock market with their own value equations."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Listable app opened"
+      - title: "Sashnote app opened"
         year: "2022"
         desc: "A checklist app. User can build and share their checklist with their friends."
         image: assets/img/timeline/3.jpg
@@ -66,7 +66,7 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "We'are adding more"
 
   about:
     title: "About Us"
@@ -152,10 +152,10 @@ es-CO:
 # -------
 ko: &DEFAULT_KR
   header:
-    title: Thank you for visiting us!
+    title: 방문해 주셔서 감사합니다
     text: AI aided applications, co.
-    button: Tell Me More
-    buttonlink: "#services"
+    button: 더 알고싶어요
+    buttonlink: "#timeline"
 
   services:
     title: "Services"
@@ -173,41 +173,41 @@ ko: &DEFAULT_KR
       #   icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
+    title: "포트폴리오"
     text: ""
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "프로젝트 닫기"
 
   timeline:
-    title: "Timeline"
-    text: "Timeline of AAA corp."
+    title: "연혁"
+    text: "AAA사 역사"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2021"
-        desc: "AAA corp. registered"
+      - title: "시작"
+        year: "2021년"
+        desc: "사업자 등록"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "Tickermath service opened"
-        year: "Feb 2021"
-        desc: "The first proejct of AAA corp. User can track the stock market with their own value equations."
+      - title: "Tickermath 홈페이지 오픈"
+        year: "2021년 2월"
+        desc: "사용자는 본인의 가치 방정식을 통해 시장의 관심있는 주식을 추적할 수 있습니다."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Listable app opened"
-        year: "2022"
-        desc: "A checklist app. User can build and share their checklist with their friends."
+      - title: "Sashnote 앱 오픈"
+        year: "2022년"
+        desc: "체크리스트 앱. 사용자는 원하는 형태의 목록을 만들고 친구들과 공유할 수 있습니다."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Homepage opened"
-        year: "May 2022"
-        desc: "This homepage opened."
+      - title: "홈페이지 오픈"
+        year: "2022년 3월"
+        desc: "이 홈페이지가 오픈되었습니다."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "앞으로도 계속 추가됩니다"
 
   about:
     title: "About Us"
