@@ -66,7 +66,7 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "We'are adding more"
+    end: "We'are<br>adding<br>more"
 
   about:
     title: "About Us"
@@ -207,7 +207,7 @@ ko: &DEFAULT_KR
         alt:
         # you can enforce the alignment
         align: right
-    end: "앞으로도 계속 추가됩니다"
+    end: "앞으로도<br>계속<br>추가됩니다"
 
   about:
     title: "About Us"
